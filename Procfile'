@@ -1,1 +1,1 @@
-Worker:python prasu.py
+worker: python prasu.py
